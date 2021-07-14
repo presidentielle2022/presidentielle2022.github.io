@@ -1,0 +1,62 @@
+
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+#nom_site{
+    font-weight: bold;
+    text-decoration: none;
+}
+#header{
+    background-color: #355065;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#nom, #date{
+    font-family: 'Cinzel', serif;
+}
+body{
+    background-color: #f6f1eb;
+}
+#map{
+    height:300px;
+    z-index: 0;
+}
+
+#texte{
+        font-family: 'Poppins', sans-serif;
+}
+
+#texte h1{
+    text-transform: capitalize;
+    background-color: #5473c0;
+    border-radius: 6px;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: x-large;
+    text-align: center;
+}
+
+#texte img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#texte strong{
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: grey;
+    color:white;
+}
+
+#footer{
+    padding: 32px;
+    font-family: 'Roboto Mono', monospace;
+
+}
+#illustration{
+    max-width: 80%;
+}
+.belligerants{
+    list-style: none;
+}
