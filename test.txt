@@ -1,0 +1,42 @@
+MLP_officiel
+
+Temps moyen -> 14854.7
+Fav moyen -> 1173.7
+Rt moyen -> 394.9
+Polarité -> 0.1292866666666667
+JLMelenchon
+
+Temps moyen -> 124.5
+Fav moyen -> 40.3
+Rt moyen -> 15.3
+Polarité -> 0.06411428571428572
+PhilippePoutou
+
+Temps moyen -> 27686.1
+Fav moyen -> 1117.7
+Rt moyen -> 233.2
+Polarité -> -0.027111111111111107
+Anne_Hidalgo
+
+Temps moyen -> 8510.5
+Fav moyen -> 158.4
+Rt moyen -> 60.4
+Polarité -> 0.20595833333333333
+montebourg
+
+Temps moyen -> 179476.1
+Fav moyen -> 299.2
+Rt moyen -> 78.8
+Polarité -> 0.12729761904761905
+ZemmourEric
+
+Temps moyen -> 232.0
+Fav moyen -> 1290.1
+Rt moyen -> 384.2
+Polarité -> 0.034883333333333336
+EmmanuelMacron
+
+Temps moyen -> 45440.7
+Fav moyen -> 6032.8
+Rt moyen -> 1180.2
+Polarité -> 0.19285238095238097
